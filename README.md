@@ -3,4 +3,5 @@
 + Project-ML-Kmeans :- Notebook for Kmean clustering model
 + Project-ML-Regression :- Notebook for Linear Regression
 + Project-ML-Logistic-Regression :- Notebook for Logistic Regression
-+ boston-marathon-eda-git :- Notebook for EDA of Boston Marathon 2019 results
++ Customer Retention Classfication :- Notebook for various classification models
++ Boston-marathon-eda-git :- Notebook for EDA of Boston Marathon 2019 results
