@@ -5,7 +5,7 @@
 + Flight Arrivals :- EDA for flight delays of US airports
 + Project-ML-CNN-Rice :- Convolutional Neural Network model for identifying rice variety
 + Project-ML-Kmeans :-  Kmean clustering model
-+ Project-ML-Logistic-Regression :- Logistic Regression
++ Project-ML-Logistic-Regression-1 :- Logistic Regression
 + Project-ML-Random-Forest :- Random Forest Classification
 + Project-ML-Regression :- Linear Regression
 + Boston-marathon-eda-git :- Exploratory Data Analysis of Boston Marathon 2019 results
